@@ -1,0 +1,11 @@
+paho-mqtt==1.6.1
+pyserial==3.5
+numpy 
+sounddevice 
+pyttsx3
+fastapi_poe 
+pvporcupine 
+opencv-python
+ultralytics
+boto3 
+pynmea2
